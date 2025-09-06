@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIApplicationExitsOnSuspend</key>
+	<false/>
+	<key>MinimumOSVersion</key>
+	<string>16.0</string>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleBlackTranslucent</string>
+	<key>NSMainNibFile~ipad</key>
+	<string>MainWindow-iPad</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>NSMicrophoneUsageDescription should be set to a valid usage description</string>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>DTXcodeBuild</key>
+	<string>9C40b</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Die Waldfibel möchte für die Baumhöhenmessung gerne den Beschleunigungssensor nutzen.</string>
+	<key>UISupportedDevices</key>
+	<array>
+		<string>iPhone10,1</string>
+		<string>iPhone10,4</string>
+		<string>iPhone11,8</string>
+		<string>iPhone12,1</string>
+		<string>iPhone12,8</string>
+		<string>iPhone14,6</string>
+	</array>
+	<key>DTAppStoreToolsBuild</key>
+	<string>14B44</string>
+	<key>CFBundleName</key>
+	<string>Die kleine Waldfibel</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
+	<key>NSCalendarsUsageDescription</key>
+	<string>NSCalendarsUsageDescription should be set to a valid usage description</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>NSSpeechRecognitionUsageDescription should be set to a valid usage description</string>
+	<key>CFBundleDisplayName</key>
+	<string>Die kleine Waldfibel</string>
+	<key>CoronaViewSupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>CoronaSDKBuild</key>
+	<string>2017.3184</string>
+	<key>ITSDRMScheme</key>
+	<string>v2</string>
+	<key>DTPlatformBuild</key>
+	<string>15C107</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>NSRemindersUsageDescription should be set to a valid usage description</string>
+	<key>DTXcode</key>
+	<string>0920</string>
+	<key>DTSDKName</key>
+	<string>iphoneos11.2</string>
+	<key>CFBundleVersion</key>
+	<string>2018.05.312327</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon20x20</string>
+				<string>AppIcon29x29</string>
+				<string>AppIcon40x40</string>
+				<string>AppIcon60x60</string>
+			</array>
+		</dict>
+	</dict>
+	<key>NSLocationUsageDescription</key>
+	<string>NSLocationUsageDescription should be set to a valid usage description</string>
+	<key>DTPlatformName</key>
+	<string>iphoneos</string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>NSLocationWhenInUseUsageDescription should be set to a valid usage description</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>de</string>
+	<key>UIInterfaceOrientation</key>
+	<string>UIInterfaceOrientationPortrait</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.meiio.waldfibel</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Die Waldfibel möchte die Bilder der Baumhöhenmessung gerne ins Album speichern.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Die Waldfibel möchte die Bilder der Baumhöhenmessung gerne ins Album speichern.</string>
+	<key>CFBundleExecutable</key>
+	<string>Die kleine Waldfibel</string>
+	<key>BuildMachineOSBuild</key>
+	<string>16G24b</string>
+	<key>CFBundleIcons~ipad</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconName</key>
+			<string>AppIcon</string>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>AppIcon20x20</string>
+				<string>AppIcon29x29</string>
+				<string>AppIcon40x40</string>
+				<string>AppIcon60x60</string>
+				<string>AppIcon76x76</string>
+				<string>AppIcon83.5x83.5</string>
+			</array>
+		</dict>
+	</dict>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CoronaDelegates</key>
+	<array>
+	</array>
+	<key>NSContactsUsageDescription</key>
+	<string>NSContactsUsageDescription should be set to a valid usage description</string>
+	<key>NSHealthShareUsageDescription</key>
+	<string>NSHealthShareUsageDescription should be set to a valid usage description</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>NSLocationAlwaysUsageDescription should be set to a valid usage description</string>
+	<key>NSSiriUsageDescription</key>
+	<string>NSSiriUsageDescription should be set to a valid usage description</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Die Waldfibel möchte für die Baumhöhenmessung gerne die Kamera nutzen.</string>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>BundesSansOffice.ttf</string>
+		<string>BundesSansOffice-Bold.ttf</string>
+		<string>BundesSansOffice-Italic.ttf</string>
+		<string>BundesSerifOffice.ttf</string>
+		<string>BundesSerifOffice-Italic.ttf</string>
+		<string>BundesSerifOffice-Bold.ttf</string>
+	</array>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>NSAppleMusicUsageDescription should be set to a valid usage description</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>NSHealthUpdateUsageDescription should be set to a valid usage description</string>
+	<key>DTSDKBuild</key>
+	<string>15C107</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>NSBluetoothPeripheralUsageDescription should be set to a valid usage description</string>
+	<key>DTPlatformVersion</key>
+	<string>11.2</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.2.1</string>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>NSHomeKitUsageDescription</key>
+	<string>NSHomeKitUsageDescription should be set to a valid usage description</string>
+</dict>
+</plist>
