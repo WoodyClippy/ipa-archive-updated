@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+      <string>UIInterfaceOrientationPortraitUpsideDown</string>
+      <string>UIInterfaceOrientationLandscapeLeft</string>
+      <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>NSLocationAlwaysUsageDescription should be set to a valid usage description</string>
+    <key>DTPlatformVersion</key>
+    <string>10.2</string>
+    <key>DTSDKBuild</key>
+    <string>14C89</string>
+    <key>UIStatusBarStyle</key>
+    <string>UIStatusBarStyleBlackTranslucent</string>
+    <key>NSSiriUsageDescription</key>
+    <string>NSSiriUsageDescription should be set to a valid usage description</string>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>NSCameraUsageDescription</key>
+    <string>NSCameraUsageDescription should be set to a valid usage description</string>
+    <key>NSMainNibFile</key>
+    <string>MainWindow</string>
+    <key>CFBundleDisplayName</key>
+    <string>Knots 3D</string>
+    <key>CoronaViewSupportedInterfaceOrientations</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+      <string>UIInterfaceOrientationPortraitUpsideDown</string>
+      <string>UIInterfaceOrientationLandscapeLeft</string>
+      <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    <key>DTXcodeBuild</key>
+    <string>8C38</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>NSRemindersUsageDescription should be set to a valid usage description</string>
+    <key>CFBundleLocalizations</key>
+    <array>
+      <string>ar</string>
+      <string>da</string>
+      <string>de</string>
+      <string>en</string>
+      <string>es</string>
+      <string>fr</string>
+      <string>he</string>
+      <string>it</string>
+      <string>ja</string>
+      <string>ko</string>
+      <string>nl</string>
+      <string>no</string>
+      <string>pl</string>
+      <string>pt</string>
+      <string>ru</string>
+      <string>sv</string>
+      <string>tr</string>
+      <string>zh-Hans</string>
+      <string>zh-Hant</string>
+    </array>
+    <key>CFBundleIdentifier</key>
+    <string>com.nynix.animatedknots3d</string>
+    <key>UIDeviceFamily</key>
+    <array>
+      <integer>1</integer>
+      <integer>2</integer>
+    </array>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>NSMainNibFile~ipad</key>
+    <string>MainWindow-iPad</string>
+    <key>CFBundleSupportedPlatforms</key>
+    <array>
+      <string>iPhoneOS</string>
+    </array>
+    <key>NSHealthUpdateUsageDescription</key>
+    <string>NSHealthUpdateUsageDescription should be set to a valid usage description</string>
+    <key>UIRequiresFullScreen</key>
+    <true/>
+    <key>CoronaSDKBuild</key>
+    <string>2017.3056</string>
+    <key>NSBluetoothPeripheralUsageDescription</key>
+    <string>NSBluetoothPeripheralUsageDescription should be set to a valid usage description</string>
+    <key>MinimumOSVersion</key>
+    <string>8.0</string>
+    <key>CFBundleIconFiles</key>
+    <array>
+      <string>Icon-40.png</string>
+      <string>Icon-58.png</string>
+      <string>Icon-76.png</string>
+      <string>Icon-80.png</string>
+      <string>Icon-87.png</string>
+      <string>Icon-120.png</string>
+      <string>Icon-152.png</string>
+      <string>Icon-167.png</string>
+      <string>Icon-180.png</string>
+    </array>
+    <key>NSMotionUsageDescription</key>
+    <string>NSMotionUsageDescription should be set to a valid usage description</string>
+    <key>CFBundleName</key>
+    <string>Knots 3D</string>
+    <key>CFBundleShortVersionString</key>
+    <string>5.0.0</string>
+    <key>UIStatusBarHidden</key>
+    <true/>
+    <key>UIAppFonts</key>
+    <array>
+      <string>HelveticaNeue.ttf</string>
+      <string>HelveticaNeueLight.ttf</string>
+      <string>HelveticaNeueUltraLight.ttf</string>
+    </array>
+    <key>CFBundleExecutable</key>
+    <string>Knots 3D</string>
+    <key>NSHealthShareUsageDescription</key>
+    <string>NSHealthShareUsageDescription should be set to a valid usage description</string>
+    <key>UILaunchImages</key>
+    <array>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>Default</string>
+        <key>UILaunchImageSize</key>
+        <string>{320, 480}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>Default-568h</string>
+        <key>UILaunchImageSize</key>
+        <string>{320, 568}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>Default-667h</string>
+        <key>UILaunchImageSize</key>
+        <string>{375, 667}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>8.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>Default-736h</string>
+        <key>UILaunchImageSize</key>
+        <string>{414, 736}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>8.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>Default-Portrait</string>
+        <key>UILaunchImageSize</key>
+        <string>{768, 1024}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+      </dict>
+    </array>
+    <key>NSAppleMusicUsageDescription</key>
+    <string>NSAppleMusicUsageDescription should be set to a valid usage description</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>NSSpeechRecognitionUsageDescription should be set to a valid usage description</string>
+    <key>UIPrerenderedIcon</key>
+    <true/>
+    <key>NSLocationUsageDescription</key>
+    <string>NSLocationUsageDescription should be set to a valid usage description</string>
+    <key>BuildMachineOSBuild</key>
+    <string>15G31</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>NSCalendarsUsageDescription should be set to a valid usage description</string>
+    <key>DTPlatformName</key>
+    <string>iphoneos</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>NSMicrophoneUsageDescription should be set to a valid usage description</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>NSLocationWhenInUseUsageDescription should be set to a valid usage description</string>
+    <key>CFBundleVersion</key>
+    <string>2017.03.182215</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>DTCompiler</key>
+    <string>com.apple.compilers.llvm.clang.1_0</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>knots</string>
+          <string>knots3d</string>
+        </array>
+      </dict>
+    </array>
+    <key>NSHomeKitUsageDescription</key>
+    <string>NSHomeKitUsageDescription should be set to a valid usage description</string>
+    <key>DTSDKName</key>
+    <string>iphoneos10.2</string>
+    <key>NSContactsUsageDescription</key>
+    <string>NSContactsUsageDescription should be set to a valid usage description</string>
+    <key>DTPlatformBuild</key>
+    <string>14C89</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>NSPhotoLibraryUsageDescription should be set to a valid usage description</string>
+    <key>CoronaDelegates</key>
+    <array/>
+    <key>UIInterfaceOrientation</key>
+    <string>UIInterfaceOrientationPortrait</string>
+    <key>DTXcode</key>
+    <string>0820</string>
+  </dict>
+</plist>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+      <string>armv7</string>
+    </array>
+    <key>UIRequiresFullScreen</key>
+    <true/>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+      <string>UIInterfaceOrientationPortraitUpsideDown</string>
+    </array>
+    <key>UIViewGroupOpacity</key>
+    <false/>
+    <key>DTPlatformVersion</key>
+    <string>9.3</string>
+    <key>DTSDKName</key>
+    <string>iphoneos9.3</string>
+    <key>CFBundleName</key>
+    <string>LapseCam</string>
+    <key>UIViewControllerBasedStatusBarAppearance</key>
+    <false/>
+    <key>DTCompiler</key>
+    <string>com.apple.compilers.llvm.clang.1_0</string>
+    <key>CFBundleIcons</key>
+    <dict>
+      <key>CFBundlePrimaryIcon</key>
+      <dict>
+        <key>CFBundleIconFiles</key>
+        <array>
+          <string>AppIcon29x29</string>
+          <string>AppIcon40x40</string>
+          <string>AppIcon60x60</string>
+        </array>
+        <key>UIPrerenderedIcon</key>
+        <true/>
+      </dict>
+    </dict>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>CFBundleDisplayName</key>
+    <string>Moments</string>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+      <string>vine</string>
+      <string>instagram</string>
+      <string>fbauth2</string>
+      <string>fbauth</string>
+    </array>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Allow participating venues to engage with you based on your location.</string>
+    <key>DTSDKBuild</key>
+    <string>13E230</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.5</string>
+    <key>CFBundleSupportedPlatforms</key>
+    <array>
+      <string>iPhoneOS</string>
+    </array>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Allow participating venues to engage with you based on your location.</string>
+    <key>Pushwoosh_APPID</key>
+    <string>08628-B9519</string>
+    <key>BuildMachineOSBuild</key>
+    <string>15F34</string>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+    </array>
+    <key>MinimumOSVersion</key>
+    <string>7.0</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>DTXcodeBuild</key>
+    <string>7D1014</string>
+    <key>CFBundleVersion</key>
+    <string>1.5.3</string>
+    <key>DTPlatformBuild</key>
+    <string>13E230</string>
+    <key>UIStatusBarHidden</key>
+    <true/>
+    <key>UIAppFonts</key>
+    <array>
+      <string>Neou-Bold.ttf</string>
+      <string>Neou-Thin.ttf</string>
+      <string>Amatic-Bold.ttf</string>
+      <string>BebasNeue Regular.otf</string>
+      <string>Blackout-Midnight.ttf</string>
+      <string>Dekar Light.otf</string>
+      <string>Dekar.otf</string>
+      <string>GrandHotel-Regular.otf</string>
+      <string>JennaSue.ttf</string>
+      <string>LeagueGothic-Regular.otf</string>
+      <string>Lovelo Black.otf</string>
+      <string>MavenProLight-300.otf</string>
+      <string>Raleway Thin.otf</string>
+      <string>Raleway-Heavy.otf</string>
+      <string>Raleway-Light.otf</string>
+      <string>Raleway.otf</string>
+      <string>AlexBrush-Regular.ttf</string>
+      <string>Baron Neue Black Italic.otf</string>
+      <string>Baron Neue Black.otf</string>
+      <string>Baron Neue Bold Italic.otf</string>
+      <string>Baron Neue Bold.otf</string>
+      <string>Baron Neue Italic.otf</string>
+      <string>Baron Neue.otf</string>
+      <string>Canter Bold 3D.otf</string>
+      <string>Canter Bold Shadow.otf</string>
+      <string>Canter Bold Strips.otf</string>
+      <string>Canter Bold.otf</string>
+      <string>Canter Light.otf</string>
+      <string>Canter Outline.otf</string>
+      <string>High Tide Bold.otf</string>
+      <string>HighTide Sans.otf</string>
+      <string>HighTide.otf</string>
+      <string>Langdon.otf</string>
+      <string>Quicksand-Bold.otf</string>
+      <string>Quicksand-BoldItalic.otf</string>
+      <string>Quicksand-Italic.otf</string>
+      <string>Quicksand-Light.otf</string>
+      <string>Quicksand-LightItalic.otf</string>
+      <string>Quicksand-Regular.otf</string>
+      <string>Quicksand_Dash.otf</string>
+      <string>Silverfake.otf</string>
+      <string>Pacifico.ttf</string>
+      <string>Retro Fitted.ttf</string>
+      <string>Simply Glamorous.ttf</string>
+      <string>times_new_yorker.ttf</string>
+      <string>Better Raleway.ttf</string>
+      <string>Raleway-SemiBold.ttf</string>
+      <string>Better Raleway Bold.ttf</string>
+      <string>Better Raleway ExtraLight.ttf</string>
+      <string>Better Raleway Light.ttf</string>
+    </array>
+    <key>FacebookAppID</key>
+    <string>582668015183450</string>
+    <key>UILaunchImages</key>
+    <array>
+      <dict>
+        <key>UILaunchImageSize</key>
+        <string>{320, 480}</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-700</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageSize</key>
+        <string>{320, 568}</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-700-568h</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageSize</key>
+        <string>{768, 1024}</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-700-Portrait</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+      </dict>
+    </array>
+    <key>UILaunchStoryboardName</key>
+    <string>Launch Screen</string>
+    <key>UIDeviceFamily</key>
+    <array>
+      <integer>1</integer>
+      <integer>2</integer>
+    </array>
+    <key>Fabric</key>
+    <dict>
+      <key>Kits</key>
+      <array>
+        <dict>
+          <key>KitName</key>
+          <string>Crashlytics</string>
+          <key>KitInfo</key>
+          <dict/>
+        </dict>
+      </array>
+      <key>APIKey</key>
+      <string>9a8256193c685d581071e107133ac03947e9a895</string>
+    </dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.easytigerapps.moments</string>
+    <key>DTXcode</key>
+    <string>0731</string>
+    <key>NSLocationUsageDescription</key>
+    <string>Allow participating venues to engage with you based on your location.</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsArbitraryLoads</key>
+      <true/>
+    </dict>
+    <key>CFBundleExecutable</key>
+    <string>LapseCam</string>
+    <key>CFBundleIcons~ipad</key>
+    <dict>
+      <key>CFBundlePrimaryIcon</key>
+      <dict>
+        <key>CFBundleIconFiles</key>
+        <array>
+          <string>AppIcon29x29</string>
+          <string>AppIcon40x40</string>
+          <string>AppIcon60x60</string>
+          <string>AppIcon76x76</string>
+          <string>AppIcon83.5x83.5</string>
+        </array>
+        <key>UIPrerenderedIcon</key>
+        <true/>
+      </dict>
+    </dict>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>DTPlatformName</key>
+    <string>iphoneos</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLName</key>
+        <string>facebook</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>fb582668015183450</string>
+        </array>
+      </dict>
+      <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLName</key>
+        <string>moments</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>easytiger.moments</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+</plist>

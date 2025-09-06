@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLName</key>
+        <string>com.mosesyan.ilya.fitnesspointpro</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>fb507388089309353</string>
+          <string>fitnesspointpro</string>
+        </array>
+      </dict>
+      <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLName</key>
+        <string></string>
+      </dict>
+    </array>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array/>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>UIRequiresFullScreen</key>
+    <true/>
+    <key>DTPlatformVersion</key>
+    <string>11.2</string>
+    <key>NSUserActivityTypes</key>
+    <array>
+      <string>com.mosesyan.ilya.fitnesspointpro.activity</string>
+    </array>
+    <key>CFBundleName</key>
+    <string>Fitness Point</string>
+    <key>DTSDKName</key>
+    <string>iphoneos11.2</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>...</string>
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+      <string>UIInterfaceOrientationLandscapeLeft</string>
+      <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    <key>UIViewControllerBasedStatusBarAppearance</key>
+    <false/>
+    <key>CFBundleIcons</key>
+    <dict>
+      <key>CFBundlePrimaryIcon</key>
+      <dict>
+        <key>CFBundleIconFiles</key>
+        <array>
+          <string>AppIcon Pro20x20</string>
+          <string>AppIcon Pro29x29</string>
+          <string>AppIcon Pro40x40</string>
+          <string>AppIcon Pro60x60</string>
+        </array>
+        <key>UIPrerenderedIcon</key>
+        <true/>
+        <key>CFBundleIconName</key>
+        <string>AppIcon Pro</string>
+      </dict>
+    </dict>
+    <key>UIStatusBarStyle</key>
+    <string>UIStatusBarStyleDefault</string>
+    <key>CFBundleDisplayName</key>
+    <string>Fitness Point</string>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>DTSDKBuild</key>
+    <string>15C107</string>
+    <key>NSCameraUsageDescription</key>
+    <string>...</string>
+    <key>CFBundleShortVersionString</key>
+    <string>6.8.3</string>
+    <key>CFBundleSupportedPlatforms</key>
+    <array>
+      <string>iPhoneOS</string>
+    </array>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+    </array>
+    <key>BuildMachineOSBuild</key>
+    <string>17C205</string>
+    <key>DTPlatformBuild</key>
+    <string>15C107</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>MinimumOSVersion</key>
+    <string>9.0</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>DTXcodeBuild</key>
+    <string>9C40b</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>...</string>
+    <key>UIAppFonts</key>
+    <array>
+      <string>HelveticaNeue.ttc</string>
+      <string>HelveticaNeueLights.ttc</string>
+    </array>
+    <key>UIFileSharingEnabled</key>
+    <false/>
+    <key>FacebookAppID</key>
+    <string>507388089309353</string>
+    <key>UILaunchImages</key>
+    <array>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-1100-Portrait-2436h</string>
+        <key>UILaunchImageSize</key>
+        <string>{375, 812}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>11.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-800-Portrait-736h</string>
+        <key>UILaunchImageSize</key>
+        <string>{414, 736}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>8.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-800-667h</string>
+        <key>UILaunchImageSize</key>
+        <string>{375, 667}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>8.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-700</string>
+        <key>UILaunchImageSize</key>
+        <string>{320, 480}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-700-568h</string>
+        <key>UILaunchImageSize</key>
+        <string>{320, 568}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Landscape</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-700-Landscape</string>
+        <key>UILaunchImageSize</key>
+        <string>{768, 1024}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+      </dict>
+    </array>
+    <key>UIPrerenderedIcon</key>
+    <true/>
+    <key>UIStatusBarHidden</key>
+    <false/>
+    <key>UIDeviceFamily</key>
+    <array>
+      <integer>1</integer>
+      <integer>2</integer>
+    </array>
+    <key>NSMainNibFile</key>
+    <string>MainWindow</string>
+    <key>Fabric</key>
+    <dict>
+      <key>Kits</key>
+      <array>
+        <dict>
+          <key>KitInfo</key>
+          <dict/>
+          <key>KitName</key>
+          <string>Crashlytics</string>
+        </dict>
+      </array>
+      <key>APIKey</key>
+      <string>974301095c60e938925d6f478f2ca9d312d0a993</string>
+    </dict>
+    <key>FacebookDisplayName</key>
+    <string>Fitness Point Pro</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.mosesyan.ilya.fitnesspointpro</string>
+    <key>DTXcode</key>
+    <string>0920</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>...</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsArbitraryLoads</key>
+      <true/>
+      <key>NSExceptionDomains</key>
+      <dict>
+        <key>www.fitnesspointapp.com</key>
+        <string>www.fitnesspointapp.com</string>
+        <key>fitnesspointapp.com</key>
+        <string>fitnesspointapp.com</string>
+      </dict>
+    </dict>
+    <key>CFBundleExecutable</key>
+    <string>Fitness Point</string>
+    <key>NSHealthUpdateUsageDescription</key>
+    <string>...</string>
+    <key>CFBundleIcons~ipad</key>
+    <dict>
+      <key>CFBundlePrimaryIcon</key>
+      <dict>
+        <key>CFBundleIconFiles</key>
+        <array>
+          <string>AppIcon Pro20x20</string>
+          <string>AppIcon Pro29x29</string>
+          <string>AppIcon Pro40x40</string>
+          <string>AppIcon Pro60x60</string>
+          <string>AppIcon Pro76x76</string>
+          <string>AppIcon Pro83.5x83.5</string>
+        </array>
+        <key>UIPrerenderedIcon</key>
+        <true/>
+        <key>CFBundleIconName</key>
+        <string>AppIcon Pro</string>
+      </dict>
+    </dict>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>NSMainNibFile~ipad</key>
+    <string>MainWindow~iPad</string>
+    <key>DTPlatformName</key>
+    <string>iphoneos</string>
+    <key>NSHealthShareUsageDescription</key>
+    <string>...</string>
+    <key>DTCompiler</key>
+    <string>com.apple.compilers.llvm.clang.1_0</string>
+  </dict>
+</plist>

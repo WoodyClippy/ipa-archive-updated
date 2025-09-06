@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+      <string>armv7</string>
+    </array>
+    <key>UIRequiresFullScreen</key>
+    <true/>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+      <string>UIInterfaceOrientationPortraitUpsideDown</string>
+      <string>UIInterfaceOrientationLandscapeLeft</string>
+      <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+    <key>DTPlatformVersion</key>
+    <string>10.3</string>
+    <key>DTCompiler</key>
+    <string>com.apple.compilers.llvm.clang.1_0</string>
+    <key>DTSDKName</key>
+    <string>iphoneos10.3</string>
+    <key>CFBundleName</key>
+    <string>Analog Cam</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Uses photo</string>
+    <key>UIMainStoryboardFile~ipad</key>
+    <string>Main_iPad</string>
+    <key>CFBundleIcons</key>
+    <dict>
+      <key>CFBundlePrimaryIcon</key>
+      <dict>
+        <key>CFBundleIconFiles</key>
+        <array>
+          <string>AppIcon29x29</string>
+          <string>AppIcon40x40</string>
+          <string>AppIcon60x60</string>
+        </array>
+      </dict>
+    </dict>
+    <key>UIStatusBarTintParameters</key>
+    <dict>
+      <key>UINavigationBar</key>
+      <dict>
+        <key>Style</key>
+        <string>UIBarStyleDefault</string>
+        <key>Translucent</key>
+        <false/>
+      </dict>
+    </dict>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+      <string>instagram</string>
+      <string>whatsapp</string>
+    </array>
+    <key>DTSDKBuild</key>
+    <string>14E269</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Uses Camera access</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.10</string>
+    <key>CFBundleSupportedPlatforms</key>
+    <array>
+      <string>iPhoneOS</string>
+    </array>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+    </array>
+    <key>BuildMachineOSBuild</key>
+    <string>16A323</string>
+    <key>DTPlatformBuild</key>
+    <string>14E269</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>DTXcodeBuild</key>
+    <string>8E2002</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>UIAppFonts</key>
+    <array>
+      <string>Balinese Family.ttf</string>
+      <string>2-Questa_Grande_Regular.otf</string>
+      <string>Age.otf</string>
+      <string>AlexBrush-Regular-OTF.otf</string>
+      <string>AvenirLTStd-Book.otf</string>
+      <string>Barrio-Regular.otf</string>
+      <string>BebasNeue Light.otf</string>
+      <string>burnstown_dam.otf</string>
+      <string>Canter Bold Strips.otf</string>
+      <string>Canter Light.otf</string>
+      <string>Chunkfive.otf</string>
+      <string>CoronaLTStd-Italic.otf</string>
+      <string>Flyer_Wonderful.otf</string>
+      <string>Folksolid.otf</string>
+      <string>GarageGothic-Bold.otf</string>
+      <string>GrandHotel-Regular.otf</string>
+      <string>GreatVibes-Regular.otf</string>
+      <string>GrotaSansRounded-BlackItalic.otf</string>
+      <string>Intro Inline.otf</string>
+      <string>ITCAvantGardeStd-XLt.otf</string>
+      <string>KaufmannStd-Bold.otf</string>
+      <string>Kautiva Pro Black Italic.otf</string>
+      <string>knewave.otf</string>
+      <string>Langdon.otf</string>
+      <string>Lavanderia Delicate.otf</string>
+      <string>Lavanderia Regular.otf</string>
+      <string>Lavanderia Sturdy.otf</string>
+      <string>LeagueGothic-Italic.otf</string>
+      <string>LeagueGothic-Regular.otf</string>
+      <string>LearningCurve_OT.otf</string>
+      <string>Liberator.otf</string>
+      <string>Lobster 1.4.otf</string>
+      <string>Love_Potion_Ornaments.otf</string>
+      <string>Lumberjack_New_jane.otf</string>
+      <string>Lunchbox_Slab_Bold.otf</string>
+      <string>Lunchbox_Slab_Light.otf</string>
+      <string>Masana Grata.otf</string>
+      <string>Masana Propia.otf</string>
+      <string>Mathlete-Bulky.otf</string>
+      <string>MavenProLight-100.otf</string>
+      <string>Metropolis 1920.otf</string>
+      <string>Mission-Script.otf</string>
+      <string>Molot.otf</string>
+      <string>Museo Slab.otf</string>
+      <string>MuseoSans_300.otf</string>
+      <string>MuseoSans_500.otf</string>
+      <string>MuseoSans_700.otf</string>
+      <string>MuseoSans_900.otf</string>
+      <string>National BookItalic.otf</string>
+      <string>NuptialScriptLTStd.otf</string>
+      <string>OnlyYouProBold.otf</string>
+      <string>OnlyYouProWordsTwo.otf</string>
+      <string>Orbits-Thin.otf</string>
+      <string>Pequena Swash.otf</string>
+      <string>PintassilgoPrints - Blueshift Stick.otf</string>
+      <string>provence.otf</string>
+      <string>Quicksand_Dash.otf</string>
+      <string>Quirky Nots.otf</string>
+      <string>Ribbon_V2_2011.otf</string>
+      <string>Rochester-Regular.otf</string>
+      <string>Sequi_regular.otf</string>
+      <string>ThunderPants.otf</string>
+      <string>Trend Handmade.otf</string>
+      <string>Trend Ornaments.otf</string>
+      <string>Trend Slab.otf</string>
+      <string>True North Black.otf</string>
+      <string>vagabond_new_jane.otf</string>
+      <string>Vagabond_Revised.otf</string>
+      <string>Venera-900.otf</string>
+      <string>Vetka.otf</string>
+      <string>Wisdom Script.otf</string>
+      <string>YanoneKaffeesatz-Bold.otf</string>
+      <string>Yonder-Regular.otf</string>
+      <string>Airplane.ttf</string>
+      <string>ALoveofThunder.ttf</string>
+      <string>always forever.ttf</string>
+      <string>BEBAS___.TTF</string>
+      <string>BubbleMan.ttf</string>
+      <string>Bellerose.ttf</string>
+      <string>Flavors-Regular.ttf</string>
+      <string>Needlework Perfect.ttf</string>
+      <string>Blackout Sunrise.ttf</string>
+      <string>Blackout Two AM.ttf</string>
+      <string>Brain Flower.ttf</string>
+      <string>Comfortaa-Regular.ttf</string>
+      <string>CrystalCastles.ttf</string>
+      <string>FFF_Tusj.ttf</string>
+      <string>FRESSH (1).ttf</string>
+      <string>GeosansLight.ttf</string>
+      <string>Gotham-Bold.ttf</string>
+      <string>Haymaker.ttf</string>
+      <string>Homestead-Display.ttf</string>
+      <string>JennaSue.ttf</string>
+      <string>Joyful Juliana.ttf</string>
+      <string>JUICE Bold Italic.ttf</string>
+      <string>KOMIKAX_.ttf</string>
+      <string>Market_Deco.ttf</string>
+      <string>Monoton-Regular.ttf</string>
+      <string>NEORD___.ttf</string>
+      <string>Ostrich Bold.ttf</string>
+      <string>Ostrich Rounded.ttf</string>
+      <string>Pacifico.ttf</string>
+      <string>PeaxWebdesignFreeIcons.ttf</string>
+      <string>scoolar tfb.ttf</string>
+      <string>Simply Glamorous.ttf</string>
+      <string>SketchIconsbold.ttf</string>
+      <string>Snickles.ttf</string>
+      <string>TheanoDidot-Regular.ttf</string>
+      <string>True Lies.ttf</string>
+      <string>Tw Cen MT Bold Italic.ttf</string>
+      <string>Windsong.ttf</string>
+      <string>Rubber.ttf</string>
+      <string>Vtks Revolt.ttf</string>
+      <string>GrungeVoysla-Bold.ttf</string>
+      <string>Andres.ttf</string>
+      <string>BELLABOO-Regular.ttf</string>
+      <string>Distractor-Roman.ttf</string>
+      <string>fabfeltscript-bold.ttf</string>
+      <string>Forum-Regular.ttf</string>
+      <string>Glamor-Regular.ttf</string>
+      <string>Infinity.ttf</string>
+      <string>makhina.ttf</string>
+      <string>MANIFESTO.ttf</string>
+      <string>manteka.ttf</string>
+      <string>MODERNE SANS.ttf</string>
+      <string>molesk.ttf</string>
+      <string>Monthoers.ttf</string>
+      <string>nevis.ttf</string>
+      <string>ostrich-black.ttf</string>
+      <string>Reckoner.ttf</string>
+      <string>REIS- regular.ttf</string>
+      <string>Timber.ttf</string>
+      <string>TrueLove.ttf</string>
+      <string>Universum.ttf</string>
+      <string>AlexBrush-Regular.ttf</string>
+      <string>AmaticSC-Regular.ttf</string>
+      <string>black_jack.ttf</string>
+      <string>daniel.ttf</string>
+      <string>Dooodleista.ttf</string>
+      <string>JennaSue.ttf</string>
+      <string>journal.ttf</string>
+      <string>OpenSans-Regular.ttf</string>
+      <string>Pacifico.ttf</string>
+      <string>SEASRN__.ttf</string>
+      <string>NOOADemi-Serif.ttf</string>
+      <string>ProximaNova-Bold.otf</string>
+      <string>ProximaNova-Regular.otf</string>
+      <string>ProximaNova-RegularItalic.otf</string>
+      <string>BabasNeue-Regular.ttf</string>
+      <string>BabasNeue-Bold.otf</string>
+    </array>
+    <key>CFBundleVersion</key>
+    <string>1.2</string>
+    <key>MinimumOSVersion</key>
+    <string>8.0</string>
+    <key>FacebookAppID</key>
+    <string>931755466922079</string>
+    <key>UIDeviceFamily</key>
+    <array>
+      <integer>1</integer>
+      <integer>2</integer>
+    </array>
+    <key>FacebookDisplayName</key>
+    <string>BabyPics</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.gordan.analogcam</string>
+    <key>DTXcode</key>
+    <string>0832</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsArbitraryLoads</key>
+      <true/>
+    </dict>
+    <key>CFBundleExecutable</key>
+    <string>Analog Cam</string>
+    <key>CFBundleIcons~ipad</key>
+    <dict>
+      <key>CFBundlePrimaryIcon</key>
+      <dict>
+        <key>CFBundleIconFiles</key>
+        <array>
+          <string>AppIcon29x29</string>
+          <string>AppIcon40x40</string>
+          <string>AppIcon60x60</string>
+          <string>AppIcon76x76</string>
+          <string>AppIcon83.5x83.5</string>
+        </array>
+      </dict>
+    </dict>
+    <key>UIMainStoryboardFile</key>
+    <string>Main</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>DTPlatformName</key>
+    <string>iphoneos</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>fb931755466922079</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+</plist>

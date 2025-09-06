@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+      <string>UIInterfaceOrientationPortrait</string>
+      <string>UIInterfaceOrientationPortraitUpsideDown</string>
+    </array>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>ThumbDrift needs access to Location to continue.</string>
+    <key>DTPlatformVersion</key>
+    <string>11.1</string>
+    <key>DTSDKBuild</key>
+    <string>15B87</string>
+    <key>UIStatusBarStyle</key>
+    <string>UIStatusBarStyleDefault</string>
+    <key>CFBundleIcons~ipad</key>
+    <dict>
+      <key>CFBundlePrimaryIcon</key>
+      <dict>
+        <key>CFBundleIconFiles</key>
+        <array>
+          <string>AppIcon20x20</string>
+          <string>AppIcon29x29</string>
+          <string>AppIcon40x40</string>
+          <string>AppIcon57x57</string>
+          <string>AppIcon60x60</string>
+          <string>AppIcon50x50</string>
+          <string>AppIcon72x72</string>
+          <string>AppIcon76x76</string>
+          <string>AppIcon83.5x83.5</string>
+        </array>
+        <key>CFBundleIconName</key>
+        <string>AppIcon</string>
+      </dict>
+    </dict>
+    <key>NSSiriUsageDescription</key>
+    <string>ThumbDrift needs access to Siri to continue.</string>
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+    <key>NSCameraUsageDescription</key>
+    <string>ThumbDrift needs access to Camera to continue.</string>
+    <key>Unity_LoadingActivityIndicatorStyle</key>
+    <integer>-1</integer>
+    <key>CFBundleDisplayName</key>
+    <string>Thumb Drift</string>
+    <key>AppLovinSdkKey</key>
+    <string>Jft3pkeLLd8tD-l1on_TNN44XqKf4tLNXDRKx5gHkp8xntzZez60LA5t-PX2GuQp5t81ypJfcRbOJZyyX2ytD1</string>
+    <key>DTXcodeBuild</key>
+    <string>9B55</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>ThumbDrift needs access to Reminders to continue.</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.smgstudio.thumbdrift</string>
+    <key>UIDeviceFamily</key>
+    <array>
+      <integer>1</integer>
+      <integer>2</integer>
+    </array>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+      <string>instagram</string>
+      <string>whatsapp</string>
+    </array>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleIcons</key>
+    <dict>
+      <key>CFBundlePrimaryIcon</key>
+      <dict>
+        <key>CFBundleIconFiles</key>
+        <array>
+          <string>AppIcon20x20</string>
+          <string>AppIcon29x29</string>
+          <string>AppIcon40x40</string>
+          <string>AppIcon57x57</string>
+          <string>AppIcon60x60</string>
+        </array>
+        <key>CFBundleIconName</key>
+        <string>AppIcon</string>
+      </dict>
+    </dict>
+    <key>CFBundleSupportedPlatforms</key>
+    <array>
+      <string>iPhoneOS</string>
+    </array>
+    <key>NSHealthUpdateUsageDescription</key>
+    <string>ThumbDrift needs access to HealthKit to continue.</string>
+    <key>UIRequiresFullScreen</key>
+    <true/>
+    <key>UILaunchStoryboardName~ipod</key>
+    <string>LaunchScreen-iPhone</string>
+    <key>NSMotionUsageDescription</key>
+    <string>ThumbDrift needs access to Motion sensor to continue.</string>
+    <key>NSBluetoothPeripheralUsageDescription</key>
+    <string>ThumbDrift needs access to Bluetooth Peripheral to continue.</string>
+    <key>NSVideoSubscriberAccountUsageDescription</key>
+    <string>ThumbDrift needs access to TV Provider to continue.</string>
+    <key>MinimumOSVersion</key>
+    <string>8.0</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>666f722074616b696e67207069637475726573</string>
+    <key>CFBundleName</key>
+    <string>Thumb Drift</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.4.4</string>
+    <key>UILaunchImageFile</key>
+    <string>LaunchImage</string>
+    <key>UIApplicationExitsOnSuspend</key>
+    <false/>
+    <key>UIBackgroundModes</key>
+    <array>
+      <string>remote-notification</string>
+    </array>
+    <key>CFBundleExecutable</key>
+    <string>thumbdrift</string>
+    <key>NSHealthShareUsageDescription</key>
+    <string>ThumbDrift needs access to HealthKit to continue.</string>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+      <string>armv7</string>
+      <string>gamekit</string>
+      <string>gamekit</string>
+    </array>
+    <key>UIStatusBarHidden</key>
+    <true/>
+    <key>UILaunchImages</key>
+    <array>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-800-Portrait-736h</string>
+        <key>UILaunchImageSize</key>
+        <string>{414, 736}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>8.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Landscape</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-800-Landscape-736h</string>
+        <key>UILaunchImageSize</key>
+        <string>{414, 736}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>8.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-800-667h</string>
+        <key>UILaunchImageSize</key>
+        <string>{375, 667}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>8.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-700</string>
+        <key>UILaunchImageSize</key>
+        <string>{320, 480}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-700-568h</string>
+        <key>UILaunchImageSize</key>
+        <string>{320, 568}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Portrait</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-700-Portrait</string>
+        <key>UILaunchImageSize</key>
+        <string>{768, 1024}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+      </dict>
+      <dict>
+        <key>UILaunchImageOrientation</key>
+        <string>Landscape</string>
+        <key>UILaunchImageName</key>
+        <string>LaunchImage-700-Landscape</string>
+        <key>UILaunchImageSize</key>
+        <string>{768, 1024}</string>
+        <key>UILaunchImageMinimumOSVersion</key>
+        <string>7.0</string>
+      </dict>
+    </array>
+    <key>NSAppleMusicUsageDescription</key>
+    <string>ThumbDrift needs access to Media Library to continue.</string>
+    <key>FacebookAppID</key>
+    <string>1526060734380910</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>ThumbDrift needs access to Speech to continue.</string>
+    <key>UIPrerenderedIcon</key>
+    <true/>
+    <key>UIRequiresPersistentWiFi</key>
+    <false/>
+    <key>BuildMachineOSBuild</key>
+    <string>16G1036</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>ThumbDrift needs access to Calendar to continue.</string>
+    <key>DTPlatformName</key>
+    <string>iphoneos</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>ThumbDrift needs access to Microphone to continue.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>ThumbDrift needs access to Location to continue.</string>
+    <key>CFBundleVersion</key>
+    <string>254</string>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>DTCompiler</key>
+    <string>com.apple.compilers.llvm.clang.1_0</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleURLName</key>
+        <string>facebook-unity-sdk</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>fb1526060734380910</string>
+        </array>
+      </dict>
+    </array>
+    <key>NSHomeKitUsageDescription</key>
+    <string>ThumbDrift needs access to HomeKit to continue.</string>
+    <key>DTSDKName</key>
+    <string>iphoneos11.1</string>
+    <key>Fabric</key>
+    <dict>
+      <key>InitializationType</key>
+      <string>Automatic</string>
+      <key>Kits</key>
+      <array>
+        <dict>
+          <key>KitInfo</key>
+          <dict>
+            <key>consumerKey</key>
+            <string>WEa8tOvhPMCF9h8ss3gtnLxtE</string>
+            <key>consumerSecret</key>
+            <string>4F2SYpjZwQlCkqhuKHNPGQizQVBb78tRnE9IrQ62CjqYF8z9ZC</string>
+          </dict>
+          <key>KitName</key>
+          <string>Twitter</string>
+        </dict>
+      </array>
+      <key>APIKey</key>
+      <string>8180f5d5c91edb38bfccec4fa016e3341e1bd60b</string>
+    </dict>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsArbitraryLoads</key>
+      <true/>
+    </dict>
+    <key>NSContactsUsageDescription</key>
+    <string>ThumbDrift needs access to Contacts to continue.</string>
+    <key>DTPlatformBuild</key>
+    <string>15B87</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>ThumbDrift needs access to Photo Library to continue.</string>
+    <key>DTXcode</key>
+    <string>0910</string>
+    <key>UILaunchStoryboardName~ipad</key>
+    <string>LaunchScreen-iPad</string>
+    <key>UILaunchStoryboardName~iphone</key>
+    <string>LaunchScreen-iPhone</string>
+  </dict>
+</plist>
