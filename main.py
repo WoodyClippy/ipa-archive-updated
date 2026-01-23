@@ -332,7 +332,22 @@ class CacheDB:
         version = v_short or v_long
         if version != v_long and v_long:
             version += f' ({v_long})'
-        minOS = [int(x) for x in plist.get('MinimumOSVersion', '0').split('.')]
+        # minOS = [int(x) for x in plist.get('MinimumOSVersion', '0').split('.')]
+        raw = plist.get('MinimumOSVersion')
+
+        # Handle empty / missing MinimumOSVersion (log once per UID)
+        if not raw or raw.strip() == "":
+            if not hasattr(self, "_warned_empty_min_os"):
+                self._warned_empty_min_os = set()
+
+            if uid not in self._warned_empty_min_os:
+                print(f"[WARN] Empty MinimumOSVersion for uid={uid}")
+                self._warned_empty_min_os.add(uid)
+
+            minOS = [0]
+        else:
+            minOS = [int(x) for x in raw.split('.') if x.isdigit()]
+
         minOS += [0, 0, 0]  # ensures at least 3 components are given
         platforms = sum(1 << int(x) for x in plist.get('UIDeviceFamily', []))
         if not platforms and minOS[0] in [0, 1, 2, 3]:
@@ -504,6 +519,7 @@ def processPending():
                 if fsize:
                     DB.setFilesize(uid, fsize)
                 if success:
+                    print(f"[DEBUG] About to mark DONE: uid={uid}")
                     DB.setDone(uid)
                 else:
                     DB.setError(uid, done=3)
